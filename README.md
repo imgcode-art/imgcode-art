@@ -9,22 +9,27 @@ Before UX I spent 12 years as a family photographer and filmmaker. That taught m
 
 #### Selected work
 
-**[innaguba.com](https://innaguba.com)** · [code](https://github.com/imgcode-art/innaguba-web)
-Research-led redesign for a family photographer. Interviews and a survey showed the barrier wasn't price, it was fear, so every section of the new homepage answers a real worry parents named.
-`UX research` `Usability testing` `UI design` `Design system` `Front-end` · Lighthouse mobile **43 → 82**, page weight **13 MB → 2.3 MB**
+**[innaguba.com](https://innaguba.com)** · [view code](https://github.com/imgcode-art/innaguba-web)
 
-**[topenivcajku.com](https://topenivcajku.com)** · [code](https://github.com/imgcode-art/topeni-v-cajku)
+Research-led redesign for a family photographer. Interviews and a survey showed the barrier wasn't price, it was fear, so every section of the new homepage answers a real worry parents named.
+
+- **Results:** Lighthouse mobile 43 → 82 · page weight on a phone 13 MB → 2.3 MB
+- **Skills:** `UX research` `Usability testing` `UI design` `Design system` `Front-end`
+
+**[topenivcajku.com](https://topenivcajku.com)** · [view code](https://github.com/imgcode-art/topeni-v-cajku)
+
 Client website for a heating engineer. A clear offer, trust signals and one action: call.
-`UX discovery` `Responsive design` `Copywriting` `Build & deployment`
+
+- **Skills:** `UX discovery` `Responsive design` `Copywriting` `Build & deployment`
 
 ---
 
 #### How I work
 
-**Discover** interviews, surveys, competitive analysis
-**Define** personas, affinity maps, problem statements
-**Design** flows, wireframes, prototypes, usability tests, design systems
-**Deliver** copy, responsive build, performance, launch
+- **Discover:** interviews, surveys, competitive analysis
+- **Define:** personas, affinity maps, problem statements
+- **Design:** flows, wireframes, prototypes, usability tests, design systems
+- **Deliver:** copy, responsive build, performance, launch
 
 #### Toolkit
 
