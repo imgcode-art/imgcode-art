@@ -3,7 +3,7 @@
 **UX/UI designer based in the Czech Republic.**
 I design research-led websites end to end: from interviews and usability tests to interface, copy and a fast, live build.
 
-Before UX I spent 12 years as a family photographer and filmmaker. That taught me to listen to people, notice what they don't say out loud and tell a story with images. It's now the core of how I design.
+For 12 years I've been working as a photographer and filmmaker. It taught me to listen to people, notice what they don't say out loud and tell a story with images. That's the core of how I design.
 
 ---
 
