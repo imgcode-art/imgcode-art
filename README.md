@@ -13,7 +13,6 @@ For 12 years I've been working as a photographer and filmmaker for private clien
 
 Research-led redesign for a family photographer. Interviews and a survey showed the barrier wasn't price, it was fear, so every section of the new homepage answers a real worry parents named.
 
-- **Results:** Lighthouse mobile 43 → 82 · page weight on a phone 13 MB → 2.3 MB
 - **Skills:** `UX research` `Usability testing` `UI design` `Design system` `Front-end`
 
 **[topenivcajku.com](https://topenivcajku.com)** · [view code](https://github.com/imgcode-art/topeni-v-cajku)
